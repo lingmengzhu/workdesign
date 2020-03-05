@@ -21,5 +21,6 @@ npm run lint
 ```
 ![img](https://raw.githubusercontent.com/lingmengzhu/workdesign/master/src/img-folder/logo.png)
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://cli.vuejs.org/config/
+).
 
