@@ -19,7 +19,7 @@ npm run build
 ```
 npm run lint
 ```
-[项目截图](https://raw.githubusercontent.com/lingmengzhu/workdesign/master/src/img-folder/ProjectScreenshots.png)
+[项目演示](https://www.bilibili.com/video/BV1TN41197nf/)
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/
 ).
